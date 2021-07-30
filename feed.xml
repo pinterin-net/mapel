@@ -3,12 +3,32 @@
     <title>belajar</title>
     <link href="https://mapel.pinterin.net/feed.xml" rel="self" />
     <link href="https://mapel.pinterin.net" />
-    <updated>2021-07-30T11:38:18+07:00</updated>
+    <updated>2021-07-30T13:57:33+07:00</updated>
     <author>
         <name>Professor</name>
     </author>
     <id>https://mapel.pinterin.net</id>
 
+    <entry>
+        <title>Jangankan</title>
+        <author>
+            <name>Professor</name>
+        </author>
+        <link href="https://mapel.pinterin.net/jangankan.html"/>
+        <id>https://mapel.pinterin.net/jangankan.html</id>
+
+        <updated>2021-07-30T13:57:33+07:00</updated>
+            <summary>
+                <![CDATA[
+                    minum
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>minum</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Makan Enak</title>
         <author>
@@ -17,10 +37,10 @@
         <link href="https://mapel.pinterin.net/makan-enak.html"/>
         <id>https://mapel.pinterin.net/makan-enak.html</id>
 
-        <updated>2021-07-30T11:38:18+07:00</updated>
+        <updated>2021-07-30T13:57:18+07:00</updated>
             <summary>
                 <![CDATA[
-                     Sekolah Kepri Berikut Top 10 Materi Belajar Online Sekolah Kepri yang paling banyak diminati, Kakak wajib Cek ! Untuk Siswa Sekolah Kepri: SD, SMP, SMA baik negeri maupun swasta silahkan install --&gt; Sekolah Online Untuk Siswa Madrasah Kepri: Mi, Mts dan MA silahkan install --&gt; Madrasah&hellip;
+                     Sekolah Kepri Berikut Top 10 Materi Belajar Online Sekolah Kepri yang paling banyak diminati, Kakak wajib Cek ! Untuk Siswa Sekolah&hellip;
                 ]]>
             </summary>
         <content type="html">
