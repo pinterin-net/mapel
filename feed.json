@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://mapel.pinterin.net/apakah.html",
-            "url": "https://mapel.pinterin.net/apakah.html",
-            "title": "Apakah",
-            "summary": "mungkin github",
-            "content_html": "<p>mungkin github</p>",
-            "author": {
-                "name": "Professor"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-30T13:11:34+07:00",
-            "date_modified": "2021-07-30T13:11:34+07:00"
-        },
-        {
             "id": "https://mapel.pinterin.net/makan-enak.html",
             "url": "https://mapel.pinterin.net/makan-enak.html",
             "title": "Makan Enak",

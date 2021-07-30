@@ -3,32 +3,12 @@
     <title>belajar</title>
     <link href="https://mapel.pinterin.net/feed.xml" rel="self" />
     <link href="https://mapel.pinterin.net" />
-    <updated>2021-07-30T13:11:34+07:00</updated>
+    <updated>2021-07-30T11:38:18+07:00</updated>
     <author>
         <name>Professor</name>
     </author>
     <id>https://mapel.pinterin.net</id>
 
-    <entry>
-        <title>Apakah</title>
-        <author>
-            <name>Professor</name>
-        </author>
-        <link href="https://mapel.pinterin.net/apakah.html"/>
-        <id>https://mapel.pinterin.net/apakah.html</id>
-
-        <updated>2021-07-30T13:11:34+07:00</updated>
-            <summary>
-                <![CDATA[
-                    mungkin github
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>mungkin github</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Makan Enak</title>
         <author>
