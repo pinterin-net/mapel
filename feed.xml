@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>belajar</title>
-    <link href="https://pinterin-net.github.io/mapel/feed.xml" rel="self" />
-    <link href="https://pinterin-net.github.io/mapel" />
+    <link href="https://mapel.pinterin.net/feed.xml" rel="self" />
+    <link href="https://mapel.pinterin.net" />
     <updated>2021-07-30T13:11:34+07:00</updated>
     <author>
         <name>Professor</name>
     </author>
-    <id>https://pinterin-net.github.io/mapel</id>
+    <id>https://mapel.pinterin.net</id>
 
     <entry>
         <title>Apakah</title>
         <author>
             <name>Professor</name>
         </author>
-        <link href="https://pinterin-net.github.io/mapel/apakah.html"/>
-        <id>https://pinterin-net.github.io/mapel/apakah.html</id>
+        <link href="https://mapel.pinterin.net/apakah.html"/>
+        <id>https://mapel.pinterin.net/apakah.html</id>
 
         <updated>2021-07-30T13:11:34+07:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Professor</name>
         </author>
-        <link href="https://pinterin-net.github.io/mapel/makan-enak.html"/>
-        <id>https://pinterin-net.github.io/mapel/makan-enak.html</id>
+        <link href="https://mapel.pinterin.net/makan-enak.html"/>
+        <id>https://mapel.pinterin.net/makan-enak.html</id>
 
         <updated>2021-07-30T11:38:18+07:00</updated>
             <summary>
