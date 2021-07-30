@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>belajar</title>
-    <link href="https://pinterin-net.github.com/mapel/feed.xml" rel="self" />
-    <link href="https://pinterin-net.github.com/mapel" />
+    <link href="https://pinterin-net.github.io/mapel/feed.xml" rel="self" />
+    <link href="https://pinterin-net.github.io/mapel" />
     <updated>2021-07-30T11:38:18+07:00</updated>
     <author>
         <name>Professor</name>
     </author>
-    <id>https://pinterin-net.github.com/mapel</id>
+    <id>https://pinterin-net.github.io/mapel</id>
 
     <entry>
         <title>Makan Enak</title>
         <author>
             <name>Professor</name>
         </author>
-        <link href="https://pinterin-net.github.com/mapel/makan-enak.html"/>
-        <id>https://pinterin-net.github.com/mapel/makan-enak.html</id>
+        <link href="https://pinterin-net.github.io/mapel/makan-enak.html"/>
+        <id>https://pinterin-net.github.io/mapel/makan-enak.html</id>
 
         <updated>2021-07-30T11:38:18+07:00</updated>
             <summary>
