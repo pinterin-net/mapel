@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pinterin-net.github.io/mapel/sitemap.xml
