@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>belajar</title>
-    <link href="https://pinterin-net.github.io/mapel/feed.xml" rel="self" />
-    <link href="https://pinterin-net.github.io/mapel" />
-    <updated>2021-07-28T18:06:00+07:00</updated>
+    <link href="https://pinterin-net.github.com/mapel/feed.xml" rel="self" />
+    <link href="https://pinterin-net.github.com/mapel" />
+    <updated>2021-07-30T11:38:18+07:00</updated>
     <author>
         <name>Professor</name>
     </author>
-    <id>https://pinterin-net.github.io/mapel</id>
+    <id>https://pinterin-net.github.com/mapel</id>
 
     <entry>
         <title>Makan Enak</title>
         <author>
             <name>Professor</name>
         </author>
-        <link href="https://pinterin-net.github.io/mapel/makan-enak.html"/>
-        <id>https://pinterin-net.github.io/mapel/makan-enak.html</id>
+        <link href="https://pinterin-net.github.com/mapel/makan-enak.html"/>
+        <id>https://pinterin-net.github.com/mapel/makan-enak.html</id>
 
-        <updated>2021-07-28T18:06:00+07:00</updated>
+        <updated>2021-07-30T11:38:18+07:00</updated>
             <summary>
                 <![CDATA[
                      Sekolah Kepri Berikut Top 10 Materi Belajar Online Sekolah Kepri yang paling banyak diminati, Kakak wajib Cek ! Untuk Siswa Sekolah Kepri: SD, SMP, SMA baik negeri maupun swasta silahkan install --&gt; Sekolah Online Untuk Siswa Madrasah Kepri: Mi, Mts dan MA silahkan install --&gt; Madrasah&hellip;
@@ -78,7 +78,8 @@
 <p style="text-align: left;"><span style="background-color: white; color: #333333; font-size: 15px;">Berikut Top 10 Materi</span><span style="background-color: white; color: #333333; font-size: 15px;"> </span><a href="https://kepri.siapsekolah.com/p/sekolah-kepri.html">Belajar Online Sekolah Kepri</a> <span style="background-color: white; color: #333333; font-size: 15px;">yang paling banyak diminati, Kakak wajib Cek !</span></p>
 </div>
 </div>
-<span style="font-size: large;">  </span> <!--Change IDYOUTUBEVIDEO-->
+<p><span style="font-size: large;">  </span></p>
+<!--Change IDYOUTUBEVIDEO-->
 <div class="videoyoutube">
 <div class="video-responsive">
 <div class="video-youtube loader" data-src="https://www.youtube.com/embed/pEaxwXifPCc"> </div>
@@ -86,23 +87,23 @@
 </div>
 <!--Default-->
 <div class="stay-box info-default"><span style="color: #333333; font-size: x-large;">1. <a href="https://pinterin.net/belajar-sekolah-belajar-sd-belajar-dari-rumah" title="Rangkuman Belajar SD">Rangkuman Belajar SD</a></span></div>
-<span style="font-size: x-large;"><!--Red--> </span>
+<p><span style="font-size: x-large;"><!--Red--> </span></p>
 <div class="stay-box info-red"><span style="font-size: x-large;"><span style="color: #333333;">2. </span><a href="https://pinterin.net/belajar-sekolah-belajar-smp-belajar-dari-rumah" title="Rangkuman Belajar SMP">Rangkuman Belajar SMP</a></span></div>
-<span style="font-size: x-large;"><!--Blue--> </span>
+<p><span style="font-size: x-large;"><!--Blue--> </span></p>
 <div class="stay-box info-blue"><span style="font-size: x-large;"><span style="color: #333333;">3. </span><a href="https://pinterin.net/belajar-sekolah-belajar-sma-belajar-dari-rumah" title="Rangkuman Belajar SMA">Rangkuman Belajar SMA</a></span></div>
-<span style="font-size: x-large;"><!--Yellow--> </span>
+<p><span style="font-size: x-large;"><!--Yellow--> </span></p>
 <div class="stay-box info-yellow"><span style="color: #333333; font-size: x-large;">4. <a href="https://pinterin.net/belajar-madrasah-belajar-mi-belajar-dari-rumah" title="Rangkuman Pelajaran Mi">Rangkuman Pelajaran Mi</a> </span></div>
-<span style="font-size: x-large;"><!--Green--> </span>
+<p><span style="font-size: x-large;"><!--Green--> </span></p>
 <div class="stay-box info-green"><span style="color: #333333; font-size: x-large;">5. <a href="https://pinterin.net/belajar-madrasah-belajar-mts-belajar-dari-rumah" title="Rangkuman Pelajaran MTs">Rangkuman Pelajaran MTs</a> </span></div>
-<span style="font-size: x-large;"><!--Default--> </span>
+<p><span style="font-size: x-large;"><!--Default--> </span></p>
 <div class="stay-box info-default"><span style="color: #333333; font-size: x-large;">6. <a href="https://pinterin.net/belajar-madrasah-belajar-ma-belajar-dari-rumah" title="Rangkuman Pelajaran MA">Rangkuman Pelajaran MA</a> </span></div>
-<span style="font-size: x-large;"><!--Red--> </span>
+<p><span style="font-size: x-large;"><!--Red--> </span></p>
 <div class="stay-box info-red"><span style="font-size: x-large;"><span style="color: #333333;">7. </span><a href="https://pinterin.net/belajar-smk-belajar-dari-rumah" title="Rangkuman Pelajaran SMK">Rangkuman Pelajaran SMK</a></span></div>
-<span style="font-size: x-large;"><!--Blue--> </span>
+<p><span style="font-size: x-large;"><!--Blue--> </span></p>
 <div class="stay-box info-blue"><span style="color: #333333; font-size: x-large;">8. <a href="https://pinterin.net/1-twk-pancasila" title="TWK Pancasila">TWK Pancasila</a> </span></div>
-<span style="font-size: x-large;"><!--Yellow--> </span>
+<p><span style="font-size: x-large;"><!--Yellow--> </span></p>
 <div class="stay-box info-yellow"><span style="color: #333333; font-size: x-large;">9. <a href="https://siapkuliah.net/listing-category/kisi-kisi" title="Kisi-kisi UTBK Saintek">Kisi-kisi UTBK Saintek</a></span></div>
-<span style="font-size: x-large;"><!--Green--> </span>
+<p><span style="font-size: x-large;"><!--Green--> </span></p>
 <div class="stay-box info-green"><span style="font-size: x-large;"><span style="color: #333333;">10. </span><a href="https://siapkuliah.net/listing-category/kisi-kisi" title="Kisi-kisi UTBK Soshum"><span style="color: #333333;">Kisi-kisi UTBK Soshum</span></a></span></div>
 <div> </div>
 <div> </div>
